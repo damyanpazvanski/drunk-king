@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/damyan/.android/build-cache/1ac16a468f9ff5433213b74cca3b90a30c9d741c/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/damyan/.android/build-cache/1ac16a468f9ff5433213b74cca3b90a30c9d741c/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/damyan/.android/build-cache/1ac16a468f9ff5433213b74cca3b90a30c9d741c/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/damyan/.android/build-cache/1ac16a468f9ff5433213b74cca3b90a30c9d741c/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/damyan/.android/build-cache/1ac16a468f9ff5433213b74cca3b90a30c9d741c/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/damyan/.android/build-cache/1ac16a468f9ff5433213b74cca3b90a30c9d741c/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]

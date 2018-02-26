@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/damyan/.android/build-cache/1ac16a468f9ff5433213b74cca3b90a30c9d741c/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/damyan/.android/build-cache/1ac16a468f9ff5433213b74cca3b90a30c9d741c/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

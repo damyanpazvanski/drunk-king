@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/background.png",
+        "source": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/src/main/res/drawable-xhdpi/background.png"
+    },
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/logo.png",
+        "source": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/src/main/res/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/drawable-xhdpi/icon.png",
+        "source": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/src/main/res/drawable-xhdpi/icon.png"
+    }
+]

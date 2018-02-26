@@ -1,0 +1,18 @@
+<FlexboxLayout class="page" style="background: url('~/assets/images/back-table.jpg')" flexDirection="column" justifyContent="space-between" height="100%">
+    <StackLayout width="100%" style="margin: 20vh; color: #ffffff;">
+        <GridLayout>
+            <Label class="text-center" verticalAlignment="top" (tap)="info()" width="120px" height="120px" text="?"
+                   style="font-size: 30vh; display: inline-block" borderRadius="50%" horizontalAlignment="left" borderWidth="3" borderColor="#ffffff"></Label>
+            <Label style="font-size: 30vh; display: inline-block; margin-right: 35vh" class="inline style text-right" text="Left cards:"></Label>
+            <Label style="font-size: 30vh; display: inline-block" class="inline style text-right" [text]="cardsCount"></Label>
+            <Image class="back" id="back" src="~/assets/images/playing-card-back.jpg" style="height: 400vh; width: 300vw; margin-right: 220px"></Image>
+            <Image class="back" src="~/assets/images/playing-card-back.jpg" style="height: 400vh; width: 300vw; margin-right: 130px"></Image>
+            <Image class="back" src="~/assets/images/playing-card-back.jpg" style="height: 400vh; width: 300vw"></Image>
+            <Image id="card" #card (pan)="onPan($event)" style="height: 400vh"></Image>
+        </GridLayout>
+    </StackLayout>
+    <StackLayout width="100%" visibility="visible" orientation="horizontal" height="20%">
+        <Button class="btn-forest" text="REFRESH THE GAME" (tap)="refresh($event)"
+                style="margin-left: 98vh; font-size: 20vh; font-weight: bold; border-top-left-radius: 40px; border-top-right-radius: 40px; color: #ffffff; background: #009632"></Button>
+    </StackLayout>
+</FlexboxLayout>

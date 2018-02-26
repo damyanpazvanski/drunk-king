@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/damyan/.android/build-cache/1341788fffc717fbf21916f02f271fd24eb23f1d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/pre-dexed/debug/classes_932ef74b7cb228d744be417ac15df32ba984e435.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/damyan/.android/build-cache/61861fd96b1f615671467cd67a4b41fb8acef56b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/pre-dexed/debug/classes_4070c20c91c6b5939d6ed0c299075fb29b78f9dc.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/damyan/.android/build-cache/09195af1abfc1248ae89d64e35275786b9f966c6/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/damyan/.android/build-cache/1ac16a468f9ff5433213b74cca3b90a30c9d741c/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/damyan/.android/build-cache/09195af1abfc1248ae89d64e35275786b9f966c6/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/damyan/.android/build-cache/1ac16a468f9ff5433213b74cca3b90a30c9d741c/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/damyan/.android/build-cache/09195af1abfc1248ae89d64e35275786b9f966c6/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/damyan/.android/build-cache/1ac16a468f9ff5433213b74cca3b90a30c9d741c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/damyan/.android/build-cache/1ac16a468f9ff5433213b74cca3b90a30c9d741c/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/damyan/Desktop/android/blank_drunk/platforms/android/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/damyan/.android/build-cache/09195af1abfc1248ae89d64e35275786b9f966c6/output/res/drawable-v21/design_password_eye.xml"
+    }
+]
